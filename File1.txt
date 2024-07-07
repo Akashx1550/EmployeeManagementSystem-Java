@@ -1,0 +1,7 @@
+Employee ID:1
+Employee Name     :Akash
+Father's Name     :Mr. Yogendra Singh
+Employee Contact  :7017962881
+Email Information :akashx1550@gmail.com
+Employee position :SDE
+Employee Salary   :Rs 90000
